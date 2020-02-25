@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Basic Coding for Beginners**"
-date:       2020-02-25 01:24:48 +0000
+date:       2020-02-24 20:24:49 -0500
 permalink:  basic_coding_for_beginners
 ---
 
